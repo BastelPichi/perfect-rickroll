@@ -1,5 +1,3 @@
-var video = document.getElementById("ggvid");
-
 function gg() {
-  video.play();
+  document.getElementById("ggvid").play();
 }
